@@ -1,0 +1,6 @@
+﻿  源.cpp
+  源1.cpp
+  正在生成代码...
+E:\VS\程序\有序二分查找\源1.cpp(18): warning C4715: “binary_search”: 不是所有的控件路径都返回值
+源1.obj : error LNK2005: _main 已经在 源.obj 中定义
+E:\VS\程序\有序二分查找\Debug\erfenchazhao.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
