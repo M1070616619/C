@@ -1,0 +1,2 @@
+E:\VS\程序\扫雷\Debug\扫雷.exe
+E:\VS\程序\扫雷\Debug\扫雷.pdb
